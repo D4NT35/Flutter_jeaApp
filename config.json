@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "43a53744201d58effd18ac9777e93a9a",
+      "css": "donate",
+      "code": 62649,
+      "src": "fontawesome5"
+    }
+  ]
+}
